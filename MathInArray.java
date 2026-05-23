@@ -1,4 +1,4 @@
-public class Math_inArray {
+public class MathInArray {
     public static void main(String args[])
     {
         int num[][]=new int[3][4];

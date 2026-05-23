@@ -6,7 +6,7 @@ class Mobile{
         System.out.println(brand+" : "+price+" : "+name);
     }
 }
-public class static_keyword {
+public class staticKeyword {
     public static void main(String[] args) {
         Mobile obj=new Mobile();
         obj.brand="Apple";

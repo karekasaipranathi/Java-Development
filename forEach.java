@@ -1,4 +1,4 @@
-public class for_each {
+public class forEach {
     public static void main(String args[]){
         int num[]=new int[4];
         num[0]=4;

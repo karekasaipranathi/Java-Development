@@ -14,7 +14,7 @@ class Human{
         this.name=name;
     }
 }
-public class this_keyword {
+public class thisKeyword {
     public static void main(String[] args) {
         Human obj=new Human();
         obj.setAge(19);

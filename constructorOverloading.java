@@ -11,7 +11,7 @@ class Co{
         System.out.println("Sum="+c);
     }
 }
-public class constructor_overloading {
+public class constructorOverloading {
     public static void main(String[] args) {
         Co obj=new Co();
         Co obj1=new Co(20,40);
