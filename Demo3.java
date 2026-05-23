@@ -18,7 +18,7 @@ public class Demo3 {
     public static void main(String[] args) {
         Human obj=new Human();
         obj.setAge(19);
-        obj.setName("Jessy");
+        obj.setName("Messy");
         System.out.println(obj.getAge() +" : "+obj.getName());
     }
 }
